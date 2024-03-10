@@ -2,7 +2,7 @@
 
 **1. Используя команду cat в терминале операционной системы Linux, создать два файла Домашние животные (заполнив файл собаками, кошками, хомяками) и Вьючные животными заполнив файл Лошадьми, верблюдами и ослы), а затем объединить их. Просмотреть содержимое созданного файла. Переименовать файл, дав ему новое имя (Друзья человека).**
 
-![Alt текст](images/cut.jpg)
+![Alt текст](Images/cut.jpg)
 
 **2. Создать директорию, переместить файл туда.**
 
@@ -13,39 +13,39 @@
 **3. Подключить дополнительный репозиторий MySQL. Установить любой пакет из этого репозитория.**
 
 <center>
-<img src="images/repo.jpg" height="42"> 
+<img src="Images/repo.jpg" height="42"> 
 </center>
 
 <center>
-<img src="images/repo1.jpg" height="52"> 
+<img src="Images/repo1.jpg" height="52"> 
 </center>
 
 <center>
-<img src="images/repo2.jpg" height="37.5"> 
+<img src="Images/repo2.jpg" height="37.5"> 
 </center>
 
 <center>
-<img src="images/pack_install.jpg" height="70"> 
+<img src="Images/pack_install.jpg" height="70"> 
 </center>
 
 **4. Установить и удалить deb-пакет с помощью dpkg.**
 
 <center>
-<img src="images/deb_pack.jpg" height="135"> 
+<img src="Images/deb_pack.jpg" height="135"> 
 </center>
 
 <center>
-<img src="images/deb_pack_install.jpg" height="42.5"> 
+<img src="Images/deb_pack_install.jpg" height="42.5"> 
 </center>
 
 <center>
-<img src="images/remove_deb.jpg" height="185"> 
+<img src="Images/remove_deb.jpg" height="185"> 
 </center>
 
 **6. Нарисовать диаграмму, в которой есть класс родительский класс, домашние животные и вьючные животные, в составы которых в случае домашних животных войдут классы: собаки, кошки, хомяки, а в класс вьючные животные войдут: Лошади, верблюды и ослы).**
 
 <center>
-<img src="images/diagramm.jpg" height="300"> 
+<img src="Images/diagramm.jpg" height="300"> 
 </center>
 
 ***Задания `7 - 12` в файле `human_friends.sql`***
